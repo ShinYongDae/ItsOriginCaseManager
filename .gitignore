@@ -1,0 +1,12 @@
+Debug/
+ipch/
+x64/
+ItsOriginCaseManager.sdf
+ItsOriginCaseManager.VC.db
+ItsOriginCaseManager/Debug/
+ItsOriginCaseManager/Release/
+ItsOriginCaseManager/x64/
+.vs/
+ItsOriginCaseManager/ItsOriginCaseManager.aps
+
+
